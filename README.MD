@@ -199,12 +199,7 @@ Sau khi hệ thống đã chạy, bạn có thể dùng Postman để kiểm tra
 * **Body** (`raw`, `JSON`):
     ```json
     {
-        "products": [
-            {
-                "productId": "DÁN_ID_SẢN_PHẨM_VỪA_TẠO_Ở_TRÊN_VÀO_ĐÂY",
-                "quantity": 1
-            }
-        ]
+        "ids": ["Dán_ID_Vừa_Tạo_Vào_Đây"]
     }
     ```
  ![alt text](public/Buy_product.png)
