@@ -156,8 +156,8 @@ Sau khi hệ thống đã chạy, bạn có thể dùng Postman để kiểm tra
 * **Body** (`raw`, `JSON`):
     ```json
     {
-        "username": "testuser1",
-        "password": "password123"
+        "username": "admin2",
+        "password": "123"
     }
     ```
 ![alt text](public/register.png)
@@ -168,8 +168,8 @@ Sau khi hệ thống đã chạy, bạn có thể dùng Postman để kiểm tra
 * **Body** (`raw`, `JSON`):
     ```json
     {
-        "username": "testuser1",
-        "password": "password123"
+        "username": "admin2",
+        "password": "123"
     }
     ```
     ![alt text](public/login.png)
@@ -183,9 +183,9 @@ Sau khi hệ thống đã chạy, bạn có thể dùng Postman để kiểm tra
 * **Body** (`raw`, `JSON`):
     ```json
     {
-        "name": "Laptop Siêu Mỏng 2025",
-        "description": "Đây là mô tả chi tiết cho chiếc laptop siêu mỏng đời mới.",
-        "price": 25990000
+        "name": "Iphone 12",
+        "description": "hehehe",
+        "price": 15000000
     }
     ```
     ![alt text](public/Create_Product.png)
