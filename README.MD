@@ -132,3 +132,32 @@ services:
 volumes:
   mongo-data:
 ```
+### Bước 3: Khởi chạy hệ thống
+
+Mở terminal ở thư mục gốc của dự án và chạy lệnh:
+```bash
+docker-compose up --build
+```
+Lệnh này sẽ build image cho từng service và khởi chạy toàn bộ hệ thống. Bạn sẽ thấy log của tất cả các service hiển thị trên màn hình.
+
+Để dừng hệ thống, nhấn `Ctrl + C`.
+
+---
+
+## Kiểm tra (Testing) với Postman
+
+Sau khi hệ thống đã chạy, bạn có thể dùng Postman để kiểm tra các API. Mọi request đều được gửi đến API Gateway tại `http://localhost:3000`.
+
+### 1. Đăng ký tài khoản
+* **Method**: `POST`
+* **URL**: `http://localhost:3000/register`
+* **Body** (`raw`, `JSON`):
+    ```json
+    {
+        "username": "testuser1",
+        "password": "password123"
+    }
+    Example:
+    ```
+![Ảnh minh họa](./4c1dde00818b0cd5559a.jpg)
+
