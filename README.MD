@@ -159,7 +159,6 @@ Sau khi hệ thống đã chạy, bạn có thể dùng Postman để kiểm tra
         "username": "testuser1",
         "password": "password123"
     }
-    Example:
     ```
 ![alt text](public/register.png)
 
@@ -172,7 +171,6 @@ Sau khi hệ thống đã chạy, bạn có thể dùng Postman để kiểm tra
         "username": "testuser1",
         "password": "password123"
     }
-    Ecample:
     ```
     ![alt text](public/login.png)
 
