@@ -159,5 +159,5 @@ Sau khi hệ thống đã chạy, bạn có thể dùng Postman để kiểm tra
     }
     Example:
     ```
-![Ảnh minh họa](./4c1dde00818b0cd5559a.jpg)
+![alt text](public/register.jpg)
 
