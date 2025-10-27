@@ -10,7 +10,7 @@
         "password": "123"
     }
     ```
-![alt text](public/register.png)
+![alt text](public/register.jpg)
 
 ### 2. Đăng nhập
 * **Method**: `POST`
