@@ -22,7 +22,7 @@
         "password": "2004"
     }
     ```
-    ![alt text](public/login.png)
+    ![alt text](public/login.jpg)
 
 
 ### 3. Tạo sản phẩm mới
@@ -36,7 +36,7 @@
         "price": 17000
     }
     ```
-    ![alt text](public/Create_Product.png)
+    ![alt text](public/create.jpg)
    
 
 ### 4. Mua sản phẩm
@@ -48,7 +48,7 @@
         "ids": ["Id"]
     }
     ```
- ![alt text](public/Buy_product.png)
+ ![alt text](public/buy.jpg)
 
 ---
 
